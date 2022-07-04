@@ -1,17 +1,3 @@
-# resep
+![image](https://user-images.githubusercontent.com/103940090/177187596-b5857999-9869-4801-898d-a5d5fae1c0bb.png)
+![image](https://user-images.githubusercontent.com/103940090/177187642-e9174fac-45d4-4cf7-82ee-4bfaa82e4e37.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# resep-app
